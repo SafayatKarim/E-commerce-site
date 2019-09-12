@@ -1,0 +1,13 @@
+ <div class='col-md-4'>
+		                    <div class='panel panel-info proDuct'>
+		                        <div class='panel-heading'>$pro_name</div>
+		                         <div class='panel-body'>
+		                         //    <img src='image/$pro_image' style='width: 170px; height: 260px;' class='img img-responsive'/>
+		                         // </div>
+		                         <div class='panel-heading'>$ .$pro_sellprice.00
+		                             <button pid='$pro_id' style='float:right;' id='product' class ='btn btn-primary btn-xs '>AddToCart</button>
+		                         </div>
+		                         </div>
+		                         
+		                </div>        
+		               

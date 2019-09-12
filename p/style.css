@@ -1,0 +1,35 @@
+#wrapper {
+  width: 35%;
+  margin: 50px auto;
+  padding: 20px;
+  background: #6495ED;
+}
+form{
+width: 50%;
+margin: 100px auto;
+
+}
+form div {
+  margin: 3px auto;
+}
+.textInput {
+ 
+  height: 28px;
+  margin-top: 2px;
+  border: 1px solid #6B7363;
+  font-size: 16px;
+  padding: 1px;
+  width: 100%;
+}
+.textInput:focus {
+  outline: none;
+}
+.btn {
+  width: 100%;
+  
+  padding: 7px;
+}
+.val_error{
+  color: #FF1F1F;
+}
+
